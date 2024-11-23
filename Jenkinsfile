@@ -4,7 +4,7 @@ pipeline {
 
     tools {
     
-        jdk 'JDK17' // Remplacer ici "JDK17" par la version de votre JDK
+        jdk 'JDK21' // Remplacer ici "JDK17" par la version de votre JDK
         
         maven 'Maven3' // Remplacer ici "Maven3" par la version de votre Maven
     
